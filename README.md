@@ -1,6 +1,12 @@
 # How to Javascript - LINUX or Windows Ubuntu Shell
 
 ---
+## O - Before the first steps
+All you will need is a Unix terminal and a text editor (VisualStudio, Notepad, whatever...).
+
+On Windows, you will need setup `Windows WSL`, see :
+https://itsfoss.com/install-bash-on-windows/
+
 ## I - Setting up your project
 The first thing you will use is `npm` (which means `node packet manager`) which will surprisingly be managing the different packets you will install.
 
